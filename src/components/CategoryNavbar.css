@@ -1,0 +1,25 @@
+.category-navbar {
+    background: #1a1a1a;
+    padding: 10px 0;
+    text-align: center;
+  }
+  
+  .category-navbar ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+  }
+  
+  .category-navbar li {
+    color: white;
+    cursor: pointer;
+    padding: 10px 15px;
+    transition: 0.3s;
+  }
+  
+  .category-navbar li:hover {
+    background: #007bff;
+    border-radius: 5px;
+  }
+  

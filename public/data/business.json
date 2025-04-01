@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "title": "Entrepreneurship Fundamentals",
+      "description": "Learn how to start and manage a successful business",
+      "video": "https://www.youtube.com/embed/m3fLojay6tc"
+    },
+    {
+      "id": 2,
+      "title": "Marketing 101",
+      "description": "Understand the basics of marketing strategies",
+      "video": "https://www.youtube.com/embed/1gjBq2mhfbE"
+    }
+  ]
+  

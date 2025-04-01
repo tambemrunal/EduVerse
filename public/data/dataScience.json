@@ -1,0 +1,15 @@
+[
+    {
+      "id": 9,
+      "title": "Python for Data Science",
+      "description": "Learn Python and its applications in Data Science",
+      "video": "https://www.youtube.com/embed/r-uOLxNrNk8"
+    },
+    {
+      "id": 10,
+      "title": "Machine Learning Basics",
+      "description": "Introduction to machine learning algorithms",
+      "video": "https://www.youtube.com/embed/GwIo3gDZCVQ"
+    }
+  ]
+  

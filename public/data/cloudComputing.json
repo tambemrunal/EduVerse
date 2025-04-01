@@ -1,0 +1,15 @@
+[
+    {
+      "id": 3,
+      "title": "AWS for Beginners",
+      "description": "Introduction to Amazon Web Services",
+      "video": "https://www.youtube.com/embed/LXb3EKWsInQ"
+    },
+    {
+      "id": 4,
+      "title": "Google Cloud Platform Essentials",
+      "description": "Learn the basics of GCP",
+      "video": "https://www.youtube.com/embed/QwCYJmiyUek"
+    }
+  ]
+  
