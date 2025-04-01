@@ -1,7 +1,7 @@
 import React from "react";
-import "./home.css";
+import "./Home.css";
 import landingImage from "../assets/girl-img.png"; // Replace with your image
-
+//home
 const Home = () => {
   return (
     <div className="home-container">
