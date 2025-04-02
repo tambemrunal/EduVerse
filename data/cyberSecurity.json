@@ -1,0 +1,15 @@
+[
+    {
+      "id": 5,
+      "title": "Ethical Hacking Basics",
+      "description": "Learn ethical hacking and penetration testing",
+      "video": "https://www.youtube.com/embed/3Kq1MIfTWCE"
+    },
+    {
+      "id": 6,
+      "title": "Cyber Security Essentials",
+      "description": "Understand the core concepts of cybersecurity",
+      "video": "https://www.youtube.com/embed/Inj1caomiA4"
+    }
+  ]
+  

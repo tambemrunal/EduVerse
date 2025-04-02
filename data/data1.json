@@ -1,0 +1,15 @@
+[
+    {
+      "id": 7,
+      "title": "React Basics",
+      "description": "Learn React from scratch",
+      "video": "https://www.youtube.com/embed/w7ejDZ8SWv8"
+    },
+    {
+      "id": 8,
+      "title": "Redux for Beginners",
+      "description": "Manage state effectively",
+      "video": "https://www.youtube.com/embed/poQXNp9ItL4"
+    }
+  ]
+  

@@ -1,0 +1,15 @@
+[
+    {
+      "id": 17,
+      "title": "Discrete Mathematics",
+      "description": "Understand discrete structures and logic",
+      "video": "https://www.youtube.com/embed/bz7ZVdX8Nmc"
+    },
+    {
+      "id": 18,
+      "title": "Linear Algebra Basics",
+      "description": "Learn matrices, vectors, and transformations",
+      "video": "https://www.youtube.com/embed/k7RM-ot2NWY"
+    }
+  ]
+  
